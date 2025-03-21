@@ -14,7 +14,8 @@
 🔹 [Six Sigma Clinic Workflow Optimization](https://github.com/victhorialima/six-sigma-clinic-workflow)  
 Improved patient flow, reduced wait times, and enhanced clinic efficiency using DMAIC methodology.
 
-🔹 *More projects coming soon...*
+🔹 [Pharmacy Simulation & Optimization](https://github.com/victhorialima/pharmacy-simulation-efficiency)  
+Simulated and improved a real pharmacy system using Arena; **presented at IEOM 2025 (UCF)** to showcase bottleneck analysis and resource allocation.
 
 ---
 
