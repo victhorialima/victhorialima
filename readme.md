@@ -15,7 +15,7 @@
 Improved patient flow, reduced wait times, and enhanced clinic efficiency using DMAIC methodology.
 
 🔹 [Pharmacy Simulation & Optimization](https://github.com/victhorialima/pharmacy-simulation-efficiency)  
-Simulated and improved a real pharmacy system using Arena; **presented at IEOM 2025 (UCF)** to showcase bottleneck analysis and resource allocation.
+Simulated and improved a real pharmacy system using Arena; **To be presented at IEOM 2025 (UCF)** to showcase bottleneck analysis and resource allocation.
 
 ---
 
